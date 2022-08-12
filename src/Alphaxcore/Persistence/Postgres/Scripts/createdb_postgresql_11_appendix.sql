@@ -1,4 +1,4 @@
-SET ROLE miningcore;
+SET ROLE alphaxcore;
 
 DROP TABLE shares;
 
